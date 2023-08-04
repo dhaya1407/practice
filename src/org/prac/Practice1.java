@@ -11,7 +11,7 @@ public class Practice1 {
 		a[2]=30;
 		a[3]=40;
 		a[4]=50;
-		a[2]=60;
+		a[2]=70;
 		
 		
 		int length = a.length;
